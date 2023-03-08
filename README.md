@@ -1,4 +1,4 @@
-### Hi there 👋
+Hi, I'm Dayan Moreira 👋
 
 <!--
 **dayanmoreira/dayanmoreira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div>
+  <a href="https://github.com/dayanmoreira"</a>
+  <img src="https://github-readme-stats.vercel.app/api?username=dayanmoreira&show_icons=true&theme=radical">
+</div>
