@@ -13,8 +13,8 @@
 -->
 <div>
   <a href="https://github.com/dayanmoreira"</a>
-  <img height=180em src="https://github-readme-stats.vercel.app/api?username=dayanmoreira&show_icons=true&text_color=ffffff&include_all_commits=true&count_private=true&title_color=ffffff&icon_color=ffffff&bg_color=DEG,0f2027,203a43,2c5364">
-  <img height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayanmoreira&layout=compact&text_color=ffffff&title_color=ffffff&bg_color=DEG,0f2027,203a43,2c5364">
+  <img height=160em src="https://github-readme-stats.vercel.app/api?username=dayanmoreira&show_icons=true&text_color=ffffff&include_all_commits=true&count_private=true&title_color=ffffff&icon_color=ffffff&bg_color=DEG,0f2027,203a43,2c5364">
+  <img height=160em src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayanmoreira&layout=compact&text_color=ffffff&title_color=ffffff&bg_color=DEG,0f2027,203a43,2c5364">
 </div>
 
 <div style=display:inline_block><br>
