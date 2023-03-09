@@ -33,8 +33,8 @@
   <a href="https://www.instagram.com/dayanmoreira25" target="blank"><img align="center" alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <!--   <a href="#" target="blank"><img align="center" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
   <a href="#" target="blank"><img align="center" alt="my site" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"</a>     -->
+   
 </div>
+    <img src="https://github.com/dayanmoreira/dayanmoreira/blob/output/github-contribution-grid-snake.svg">
 
-<div align=center>
-  ![Snake animation](https://github.com/dayanmoreira/dayanmoreira/blob/output/github-contribution-grid-snake.svg)
-</div>
+<!--  ![Snake animation](https://github.com/dayanmoreira/dayanmoreira/blob/output/github-contribution-grid-snake.svg) -->
