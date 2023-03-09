@@ -14,7 +14,7 @@
 <div>
   <a href="https://github.com/dayanmoreira"</a>
   <img width="45%" src="https://github-readme-stats.vercel.app/api?username=dayanmoreira&show_icons=true&text_color=ffffff&include_all_commits=true&count_private=true&title_color=ffffff&icon_color=ffffff&bg_color=DEG,0f2027,203a43,2c5364">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayanmoreira&layout=compact&text_color=ffffff&title_color=ffffff&bg_color=DEG,0f2027,203a43,2c5364">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayanmoreira&layout=compact&text_color=ffffff&title_color=ffffff&bg_color=DEG,0f2027,203a43,2c5364">
 </div>
 
 <div style=display:inline_block><br>
@@ -38,3 +38,4 @@
     <img src="https://github.com/dayanmoreira/dayanmoreira/blob/output/github-contribution-grid-snake.svg">
 
 <!--  ![Snake animation](https://github.com/dayanmoreira/dayanmoreira/blob/output/github-contribution-grid-snake.svg) -->
+<!-- por as caixas de commits uma do lado da outra porem no mesmo tamanho, basta usar <img width="42%" src="link"> (para o 1 elemento) e <img width="50%" src="link"> (para o 2 elemento) -->
