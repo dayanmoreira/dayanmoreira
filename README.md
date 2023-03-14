@@ -18,7 +18,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayanmoreira&text_color=ffffff&title_color=ffffff&bg_color=DEG,0f2027,203a43,2c5364&">
 </div>
 
-<div style=display:inline_block><br>
+<div align="center" style=display:inline_block><br>
   <img height=30px width=40px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/>
   <img height=30px width=40px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg"/>
   <img height=30px width=40px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg"/>
@@ -35,7 +35,7 @@
 
 ##
 
-<div>
+<div align="center">
   <a href="#" target="blank"><img align="center" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"</a>
   <a href="https://www.instagram.com/dayanmoreira25" target="blank"><img align="center" alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <!--   <a href="#" target="blank"><img align="center" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"</a>
@@ -44,7 +44,7 @@
 </div>
     <img src="https://github.com/dayanmoreira/dayanmoreira/blob/output/github-contribution-grid-snake.svg">
 <div>    
-<!--     <img src="https://github-readme-stats.vercel.app/api/pin/?username=dayanmoreira&repo=dayanmoreira&bg_color=DEG,0f2027,203a43,2c5364&text_color=ffffff"> -->
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dayanmoreira&repo=dayanmoreira&text_color=ffffff&bg_color=DEG,0f2027,203a43,2c5364&">
  </div>
 <!--  ![Snake animation](https://github.com/dayanmoreira/dayanmoreira/blob/output/github-contribution-grid-snake.svg) -->
 <!-- por as caixas de commits uma do lado da outra porem no mesmo tamanho, basta usar <img width="42%" src="link"> (para o 1 elemento) e <img width="50%" src="link"> (para o 2 elemento) -->
