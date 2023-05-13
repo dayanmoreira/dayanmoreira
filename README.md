@@ -17,6 +17,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dayanmoreira&show_icons=true&text_color=ffffff&include_all_commits=true&title_color=ffffff&icon_color=ffffff&bg_color=DEG,0f2027,203a43,2c5364&count_private=true">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayanmoreira&text_color=ffffff&title_color=ffffff&bg_color=DEG,0f2027,203a43,2c5364&">
 </div>
+<div>
+  <h2>Tecnologias que estou estudando 👨‍💻</h2>
+</div>
 
 <div align="center" style=display:inline_block><br>
   <img height=30px width=40px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/>
