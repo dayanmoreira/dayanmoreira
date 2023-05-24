@@ -1,4 +1,11 @@
-## Hi, I'm Dayan Moreira ☕
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+
+<!-- ## Hi, I'm Dayan Moreira ☕  -->
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+DAYAN+MOREIRA;Welcome+😄+)
+ 
+
+
+#
 <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dayanmoreira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?dayanmoreira&layout=compact&langs_count=7&theme=dracula"/> -->
 
