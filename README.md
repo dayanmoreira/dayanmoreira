@@ -13,12 +13,16 @@
 - ⚡ Fun fact: ...
 -->
 <div align="center">
+  <img height="350em" src="https://user-images.githubusercontent.com/42752778/240704910-5d077989-8514-4f31-bd5e-183553cf1c1e.gif">
+</div>
+<div align="center">
   <a href="https://github.com/dayanmoreira"</a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dayanmoreira&show_icons=true&text_color=ffffff&include_all_commits=true&title_color=ffffff&icon_color=ffffff&bg_color=DEG,0f2027,203a43,2c5364&count_private=true">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayanmoreira&text_color=ffffff&title_color=ffffff&bg_color=DEG,0f2027,203a43,2c5364&">
- 
-  
 </div>
+
+
+
 <div>
   <h2>Tecnologias que estou estudando 👨‍💻</h2>
 </div>
